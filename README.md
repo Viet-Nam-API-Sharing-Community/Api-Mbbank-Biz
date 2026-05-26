@@ -10,13 +10,3 @@ This project provides automated banking functionalities and services to streamli
 ## Setup
 
 To run this project, you'll need the `.env` configuration file. Please contact the author at the above email or mobile number to retrieve the necessary environment configuration.
-
-## Contact
-
-For questions, support, or to obtain the `.env` file, please reach out to:
-- **Email:** tranhoaibao9@gmail.com
-- **Phone:** 0369285329
-
----
-
-*Developed by GOHUB TRAVEL SOLUTIONS JSC*
