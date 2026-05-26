@@ -6,11 +6,6 @@
 
 This project provides automated banking functionalities and services to streamline financial operations.
 
-## Author Information
-
-- **Email:** tranhoaibao9@gmail.com
-- **Mobile:** 0369285329
-- **Company:** GOHUB TRAVEL SOLUTIONS JSC
 
 ## Setup
 
